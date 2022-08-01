@@ -1,0 +1,25 @@
+<!-- banners promocionais rotativos  -->
+    <section id="banners-promocionais" class="container carousel slide" data-ride="carousel">
+      <!-- imagens -->
+      <article class="carousel-inner">
+        <figure class="carousel-item active">
+          <img src="./assets/images/banner-1.jpg" class="d-block w-100" alt="Banner Promocional lançamento verão">
+        </figure>
+
+        <figure class="carousel-item">
+          <img src="./assets/images/banner-2.jpg" class="d-block w-100" alt="Banner Promocional diversos itens da loja">
+        </figure>
+      </article>
+
+      <!-- prev -->
+      <a class="carousel-control-prev" href="#banners-promocionais" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <!-- next -->
+      <a class="carousel-control-next" href="#banners-promocionais" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </section>
+    <!-- banners promocionais rotativos  -->
